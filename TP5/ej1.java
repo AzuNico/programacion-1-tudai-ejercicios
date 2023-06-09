@@ -1,6 +1,8 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// Cargar un arreglo de tamaño 15, pidiendo el ingreso por teclado
+// de valores entre 1 y 12. Luego mostrar cómo quedó cargado.
 public class ej1 {
     public static final int MAX = 15;
 

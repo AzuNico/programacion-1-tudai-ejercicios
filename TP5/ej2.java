@@ -1,3 +1,5 @@
+// Hacer un programa que dado un arreglo ya cargado con 10
+// enteros, calcule el promedio y lo muestre por la consola.
 public class ej2 {
     public static int[] diezEnteros = { 2, 41, 5, 1, 78, 3, 22, 14, 25, 62 };
 
