@@ -22,7 +22,7 @@ public class Utilities {
 
     public static void mostrarArregloEnteros(int[] arrenteros) {
         for (int pos = 0; pos < arrenteros.length; pos++) {
-            System.out.println("arrenteros[" + pos + "] -> " + arrenteros[pos]);
+            System.out.println("[" + pos + "] -> " + arrenteros[pos]);
         }
     }
 
