@@ -1,6 +1,7 @@
 public class ej2 {
+    public static int[] diezEnteros = { 2, 41, 5, 1, 78, 3, 22, 14, 25, 62 };
+
     public static void main(String[] args) {
-        int[] diezEnteros = { 2, 41, 5, 1, 78, 3, 22, 14, 25, 62 };
         System.out.println(calcularPromedio(diezEnteros));
     }
 
